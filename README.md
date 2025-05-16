@@ -68,7 +68,7 @@ Backend: Node.js, Express, Socket.IO
 
 🎯 How to Play
 
-1. Enter a name and room code to join or create a room.
+1. Enter a name 
 2. Wait for another player to join the same room.
 3. Take turns placing X or O on the board.
 4. First to line up 3 symbols wins!
